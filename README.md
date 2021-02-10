@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+// 1st commit deployed with firebase
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
