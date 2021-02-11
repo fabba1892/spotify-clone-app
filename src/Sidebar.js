@@ -32,3 +32,5 @@ function Sidebar() {
 }
 
 export default Sidebar;
+// player components in sidebar/body with sidebar footer and bosy baseline
+// sidebar options and style as well
