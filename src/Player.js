@@ -18,3 +18,5 @@ function Player({ spotify }) {
 }
 
 export default Player;
+// created the body header and datalayer functions
+
