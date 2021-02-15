@@ -49,3 +49,7 @@ function Footer() {
 }
 
 export default Footer;
+
+// created the footer, icons, album and song details
+
+
