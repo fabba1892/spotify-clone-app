@@ -17,3 +17,5 @@ function SongRow({ track }) {
 }
 
 export default SongRow;
+// creating the SonRow and body icons and style
+

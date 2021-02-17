@@ -45,4 +45,6 @@ export default Body;
 // player components in sidebar/body with sidebar footer and bosy baseline
 // created the body header and datalayer functions
 // body banner created pic and descriptn
+// creating the SonRow and body icons and style
+
 
